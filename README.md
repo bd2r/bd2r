@@ -1,4 +1,4 @@
-[![MASTERHEAD](https://c4.wallpaperflare.com/wallpaper/544/257/165/gargantua-blackhole-hd-5k-wallpaper-preview.jpg)
+<img src="https://c4.wallpaperflare.com/wallpaper/544/257/165/gargantua-blackhole-hd-5k-wallpaper-preview.jpg">
 <h1 align="center">Hi 👋, I'm bd2r</h1>
 <h3 align="center">beginner CSS coder from Saudi Arabia</h3>
 
