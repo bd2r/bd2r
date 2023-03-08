@@ -1,4 +1,4 @@
-<img src="[https://user-images.githubusercontent.com/92543075/196991035-c087fe59-d8c1-4eb9-ba7e-5814e92a789b.jpg](https://greatestafrica.com/wp-content/uploads/2014/09/Sossusvlei-Desert-Lodge-Dunes-Banner-inset.jpg)">
+<img src="https://user-images.githubusercontent.com/92543075/196991035-c087fe59-d8c1-4eb9-ba7e-5814e92a789b.jpg">
 <h1 align="center">Hi 👋, I'm bd2r</h1>
 <h3 align="center">beginner CSS coder from Saudi Arabia</h3>
 
